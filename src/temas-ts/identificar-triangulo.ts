@@ -44,3 +44,5 @@ class Triangulo extends Distancia{
 let tri:Triangulo;
 tri = new Triangulo(-10,6,10,0,0,3)
 tri.imprimirTri();
+
+//Terminado
